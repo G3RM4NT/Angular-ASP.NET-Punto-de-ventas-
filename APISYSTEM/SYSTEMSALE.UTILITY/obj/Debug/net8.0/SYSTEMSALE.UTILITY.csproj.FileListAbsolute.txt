@@ -1,0 +1,17 @@
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\bin\Debug\net8.0\SYSTEMSALE.UTILITY.deps.json
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\bin\Debug\net8.0\SYSTEMSALE.UTILITY.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\bin\Debug\net8.0\SYSTEMSALE.UTILITY.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSALE.UTILITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSALE.UTILITY.AssemblyInfoInputs.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSALE.UTILITY.AssemblyInfo.cs
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSALE.UTILITY.csproj.CoreCompileInputs.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSALE.UTILITY.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\refint\SYSTEMSALE.UTILITY.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSALE.UTILITY.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\ref\SYSTEMSALE.UTILITY.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\bin\Debug\net8.0\SYSTEMSALE.DTO.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\bin\Debug\net8.0\SYSTEMSALE.MODEL.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\bin\Debug\net8.0\SYSTEMSALE.DTO.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\bin\Debug\net8.0\SYSTEMSALE.MODEL.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSALE.UTILITY.csproj.AssemblyReference.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.UTILITY\obj\Debug\net8.0\SYSTEMSA.5F0078FB.Up2Date

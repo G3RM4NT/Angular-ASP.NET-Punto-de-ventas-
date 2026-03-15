@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926342AB-2327-4CD6-8546-84FAE1CA8B54}|APISYSTEM\\APISYSTEMSALE.csproj|c:\\users\\german g\\desktop\\angular\u0026.net\\apisystem\\apisystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{926342AB-2327-4CD6-8546-84FAE1CA8B54}|APISYSTEM\\APISYSTEMSALE.csproj|solutionrelative:apisystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926342AB-2327-4CD6-8546-84FAE1CA8B54}|APISYSTEM\\APISYSTEMSALE.csproj|c:\\users\\german g\\desktop\\angular\u0026.net\\apisystem\\apisystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926342AB-2327-4CD6-8546-84FAE1CA8B54}|APISYSTEM\\APISYSTEMSALE.csproj|solutionrelative:apisystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926342AB-2327-4CD6-8546-84FAE1CA8B54}|APISYSTEM\\APISYSTEMSALE.csproj|c:\\users\\german g\\desktop\\angular\u0026.net\\apisystem\\apisystem\\apisystemsale.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{926342AB-2327-4CD6-8546-84FAE1CA8B54}|APISYSTEM\\APISYSTEMSALE.csproj|solutionrelative:apisystem\\apisystemsale.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB81830-AAF8-44FE-880E-08CE83FD7AA3}|SYSTEMSALE.IOC\\SYSTEMSALE.IOC.csproj|c:\\users\\german g\\desktop\\angular\u0026.net\\apisystem\\systemsale.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB81830-AAF8-44FE-880E-08CE83FD7AA3}|SYSTEMSALE.IOC\\SYSTEMSALE.IOC.csproj|solutionrelative:systemsale.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DFAD24-92B1-4C99-9131-B89973C21E42}|SYSTEMSALE.MODEL\\SYSTEMSALE.MODEL.csproj|c:\\users\\german g\\desktop\\angular\u0026.net\\apisystem\\systemsale.model\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DFAD24-92B1-4C99-9131-B89973C21E42}|SYSTEMSALE.MODEL\\SYSTEMSALE.MODEL.csproj|solutionrelative:systemsale.model\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49762003-408E-4E91-9D57-322DC8D3A8FC}|SYSTEMSALE.DAL\\SYSTEMSALE.DAL.csproj|c:\\users\\german g\\desktop\\angular\u0026.net\\apisystem\\systemsale.dal\\dbcontext\\databaseventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49762003-408E-4E91-9D57-322DC8D3A8FC}|SYSTEMSALE.DAL\\SYSTEMSALE.DAL.csproj|solutionrelative:systemsale.dal\\dbcontext\\databaseventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseventaContext.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\SYSTEMSALE.DAL\\DBContext\\DatabaseventaContext.cs",
+              "RelativeDocumentMoniker": "SYSTEMSALE.DAL\\DBContext\\DatabaseventaContext.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\SYSTEMSALE.DAL\\DBContext\\DatabaseventaContext.cs",
+              "RelativeToolTip": "SYSTEMSALE.DAL\\DBContext\\DatabaseventaContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA/wCUAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:58:56.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APISYSTEMSALE",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\APISYSTEM\\APISYSTEMSALE.csproj",
+              "RelativeDocumentMoniker": "APISYSTEM\\APISYSTEMSALE.csproj",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\APISYSTEM\\APISYSTEMSALE.csproj",
+              "RelativeToolTip": "APISYSTEM\\APISYSTEMSALE.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T22:33:20.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\APISYSTEM\\Program.cs",
+              "RelativeDocumentMoniker": "APISYSTEM\\Program.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\APISYSTEM\\Program.cs",
+              "RelativeToolTip": "APISYSTEM\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T22:30:16.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\SYSTEMSALE.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SYSTEMSALE.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\SYSTEMSALE.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SYSTEMSALE.IOC\\Dependencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T22:20:02.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\APISYSTEM\\appsettings.json",
+              "RelativeDocumentMoniker": "APISYSTEM\\appsettings.json",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\APISYSTEM\\appsettings.json",
+              "RelativeToolTip": "APISYSTEM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T20:22:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\SYSTEMSALE.MODEL\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "SYSTEMSALE.MODEL\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\German G\\Desktop\\Angular\u0026.NET\\APISYSTEM\\SYSTEMSALE.MODEL\\Models\\Categoria.cs",
+              "RelativeToolTip": "SYSTEMSALE.MODEL\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:15:52.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

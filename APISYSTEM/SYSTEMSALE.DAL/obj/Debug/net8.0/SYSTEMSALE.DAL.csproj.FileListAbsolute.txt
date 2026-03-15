@@ -1,0 +1,15 @@
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\bin\Debug\net8.0\SYSTEMSALE.DAL.deps.json
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\bin\Debug\net8.0\SYSTEMSALE.DAL.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\bin\Debug\net8.0\SYSTEMSALE.DAL.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSALE.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSALE.DAL.AssemblyInfoInputs.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSALE.DAL.AssemblyInfo.cs
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSALE.DAL.csproj.CoreCompileInputs.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSALE.DAL.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\refint\SYSTEMSALE.DAL.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSALE.DAL.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\ref\SYSTEMSALE.DAL.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSALE.DAL.csproj.AssemblyReference.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\bin\Debug\net8.0\SYSTEMSALE.MODEL.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\bin\Debug\net8.0\SYSTEMSALE.MODEL.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DAL\obj\Debug\net8.0\SYSTEMSA.C41B5539.Up2Date

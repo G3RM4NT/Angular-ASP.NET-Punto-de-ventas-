@@ -1,0 +1,11 @@
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\bin\Debug\net8.0\SYSTEMSALE.DTO.deps.json
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\bin\Debug\net8.0\SYSTEMSALE.DTO.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\bin\Debug\net8.0\SYSTEMSALE.DTO.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\SYSTEMSALE.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\SYSTEMSALE.DTO.AssemblyInfoInputs.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\SYSTEMSALE.DTO.AssemblyInfo.cs
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\SYSTEMSALE.DTO.csproj.CoreCompileInputs.cache
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\SYSTEMSALE.DTO.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\refint\SYSTEMSALE.DTO.dll
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\SYSTEMSALE.DTO.pdb
+C:\Users\German G\Desktop\Angular&.NET\APISYSTEM\SYSTEMSALE.DTO\obj\Debug\net8.0\ref\SYSTEMSALE.DTO.dll

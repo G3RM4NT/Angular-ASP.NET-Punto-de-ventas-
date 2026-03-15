@@ -1,0 +1,162 @@
+DIA 1 - ANGULAR & .NETCORE
+
+CAPAS DE PROYECTO
+SYSTEMSALE.BLL
+SYSTEMSALE.DAL
+SYSTEMSALE.DTO
+SYSTEMSALE.IOC
+SYSTEMSALE.MODEL
+SYSTEMSALE.UTILITY
+
+1. BLL
+
+Proyecto:
+
+SYSTEMSALE.BLL
+
+Significado:
+BLL = Business Logic Layer (Capa de lógica de negocio)
+
+Para qué sirve:
+
+Aquí se colocan las reglas del sistema.
+Es donde decides cómo funciona tu aplicación.
+
+Ejemplos de lógica de negocio:
+
+Verificar si hay stock disponible
+
+Calcular totales de una venta
+
+Validar que un usuario exista
+
+Aplicar descuentos
+
+Proyecto:
+
+SYSTEMSALE.DAL
+
+Significado:
+DAL = Data Access Layer (Capa de acceso a datos)
+
+Para qué sirve:
+
+Esta capa es la que se conecta con la base de datos.
+
+Aquí normalmente se ponen:
+
+consultas SQL
+
+repositorios
+
+Entity Framework
+
+métodos para guardar o leer datos
+3. DTO
+
+Proyecto:
+
+SYSTEMSALE.DTO
+
+Significado:
+DTO = Data Transfer Object
+
+Para qué sirve:
+
+Se usa para transportar datos entre capas o hacia el frontend.
+
+Sirve para no enviar directamente las entidades de la base de datos.
+
+Ejemplo:
+
+Entidad de base de datos
+
+4. IOC
+
+Proyecto:
+
+SYSTEMSALE.IOC
+
+Significado:
+IOC = Inversion of Control
+
+Para qué sirve:
+
+Se usa para manejar la inyección de dependencias.
+
+Esto permite que las clases no creen sus propios objetos, sino que el sistema los inyecte automáticamente.
+
+Ejemplo:
+
+services.AddScoped<IProductoService, ProductoService>();
+
+Beneficios:
+
+código más limpio
+
+más fácil de mantener
+
+facilita pruebas
+
+5. MODEL
+
+Proyecto:
+
+SYSTEMSALE.MODEL
+
+Significado:
+Model = modelos o entidades
+
+Para qué sirve:
+
+Aquí están las clases que representan las tablas de la base de datos.
+
+Ejemplo:
+
+Tabla SQL:
+
+Producto
+IdProducto
+Nombre
+Precio
+
+6. UTILITY
+
+Proyecto:
+
+SYSTEMSALE.UTILITY
+
+Significado:
+Utility = utilidades
+
+Para qué sirve:
+
+Aquí se colocan funciones reutilizables que pueden usar todos los proyectos.
+
+Ejemplos:
+
+encriptar contraseñas
+
+generar tokens
+
+helpers
+
+validaciones generales
+
+El flujo normal del sistema sería:
+
+Angular (Frontend)
+        ↓
+API (APISYSTEMSALE)
+        ↓
+BLL (Lógica del negocio)
+        ↓
+DAL (Acceso a datos)
+        ↓
+MODEL (Entidades)
+        ↓
+Base de datos
+
+Los DTO se usan para enviar datos al frontend y UTILITY ayuda a todas las capas.
+
+métodos para guardar o leer datos
