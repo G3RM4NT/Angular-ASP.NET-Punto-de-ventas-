@@ -160,3 +160,7 @@ Base de datos
 Los DTO se usan para enviar datos al frontend y UTILITY ayuda a todas las capas.
 
 métodos para guardar o leer datos
+
+DIA 2 - ANGULAR & .NETCORE
+
+Configuración de capas sobre metodos y base de datos sobre todo en DAL Repositorios y contratos, contexto de base de datos y modelo ananardium nashei
